@@ -1,0 +1,28 @@
+Background layers/Background
+Background layers/Layer_0000_9
+Background layers/Layer_0001_8
+Background layers/Layer_0002_7
+Background layers/Layer_0003_6
+Background layers/Layer_0004_Lights
+Background layers/Layer_0005_5
+Background layers/Layer_0006_4
+Background layers/Layer_0007_Lights
+Background layers/Layer_0008_3
+Background layers/Layer_0009_2
+Background layers/Layer_0010_1
+Bat/Flying (46x30)
+Bat/Hit (46x30)
+Boss1/jump-cycle
+Boss1/jump-cycle-bite-attack
+Boss1/poison-attack
+Boss1/poison-impact
+Boss1/poison-spit
+btn/about
+btn/close
+btn/close_2
+btn/faq
+btn/menu
+btn/settings
+btn/restart
+btn/prize
+btn/play
